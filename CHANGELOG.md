@@ -10,9 +10,14 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 - `removed`: for deprecated features removed in this release
 - `fixed`: for any bug fixes
 
-## [0.1.0] - 2020-11-22
+## [0.1.1] - 2020-11-22
 
-First commit.
+### Added
+
+- `.editorconfig` to work between workspaces
+- Update metadata for `package.json`
+
+## [0.1.0] - 2020-11-22
 
 ### Added
 

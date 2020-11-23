@@ -1,6 +1,6 @@
 {
   "name": "markdown-render-a11y-emojis",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Return markdown text with accesible emojis",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -15,6 +15,11 @@
     "emojis",
     "ts"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danestves/markdown-render-a11y-emojis.git"
+  },
+  "homepage": "https://github.com/danestves/markdown-render-a11y-emojis.git",
   "scripts": {
     "build": "tsc",
     "prepublish": "tsc"
