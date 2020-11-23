@@ -45,7 +45,7 @@ markdownEmojiParser(markdown);
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/danestves/markdown-rend). You can also take a look at the [contributing guide](dfds).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/danestves/markdown-render-a11y-emojis/issues). You can also take a look at the [contributing guide](https://github.com/danestves/markdown-render-a11y-emojis/blob/main/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -54,7 +54,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Daniel Esteves](https://github.com/danestves).<br />
-This project is [MIT](fffff) licensed.
+This project is [MIT](https://github.com/danestves/markdown-render-a11y-emojis/blob/main/LICENSE) licensed.
 
 ---
 
