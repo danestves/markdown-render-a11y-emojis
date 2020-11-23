@@ -9,7 +9,12 @@
     "name": "Daniel Esteves",
     "url": "https://danestves.com"
   },
-  "license": "MIT",
+  "keywords": [
+    "markdown",
+    "a11y",
+    "emojis",
+    "ts"
+  ],
   "scripts": {
     "build": "tsc",
     "prepublish": "tsc"
@@ -20,5 +25,6 @@
   },
   "devDependencies": {
     "typescript": "^4.1.2"
-  }
+  },
+  "license": "MIT"
 }
