@@ -1,0 +1,24 @@
+{
+  "name": "markdown-render-a11y-emojis",
+  "version": "0.1.0",
+  "description": "Return markdown text with accesible emojis",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": {
+    "email": "estevesd8@gmail.com",
+    "name": "Daniel Esteves",
+    "url": "https://danestves.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "tsc"
+  },
+  "dependencies": {
+    "emoji-regex": "^9.2.0",
+    "gemoji": "^6.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
