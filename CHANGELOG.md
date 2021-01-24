@@ -10,6 +10,12 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 - `removed`: for deprecated features removed in this release
 - `fixed`: for any bug fixes
 
+## [1.0.0] - 2021-01-24
+
+### Changed
+
+- Export `findByEmoji` to be used anywhere
+
 ## [0.1.1] - 2020-11-22
 
 ### Added

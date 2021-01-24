@@ -7,7 +7,7 @@ import { find } from "gemoji";
  *
  * @param {string} needle - It will receive an emoji like 👍
  */
-function findByEmoji(needle: string) {
+export function findByEmoji(needle: string) {
   return find((emoji) => emoji.emoji === needle);
 }
 
